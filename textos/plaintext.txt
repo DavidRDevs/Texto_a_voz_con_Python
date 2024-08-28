@@ -1,0 +1,6 @@
+Este es un archivo de texto plano.
+Contiene múltiples líneas de texto sin formato.
+Sirve para probar la apertura de archivos .txt en tu aplicación.
+
+asdasd
+
